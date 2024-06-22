@@ -323,6 +323,12 @@ PRODUCT_PACKAGES += \
     libcamxswprocessalgo \
     libcamxtintlessalgo \
     libcom.qti.chinodeutils \
+    libconfigdb \
+    libcpion \
+    libdataitems \
+    libdisp-aba \
+    libdpps \
+    libdisplayqos \
     libdng_sdk2vendor \
     libflaw \
     libft2vendor \
