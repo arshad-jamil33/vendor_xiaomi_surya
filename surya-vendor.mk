@@ -505,6 +505,8 @@ PRODUCT_PACKAGES += \
     libconfigdb \
     libcpion \
     libdataitems \
+    libdisp-aba \
+    libdpps \
     libdisplayqos \
     libdng_sdk2vendor \
     libdpmqmihal \
